@@ -82,10 +82,10 @@ body{
 /*============== MAIN =============*/
 
 #main{
-    margin-top: 119px;
-    width: 100%;
+    margin-top: 120px;
     background: url('Images/map-blur.png');
     background-repeat: repeat-y;
+    margin-bottom: 39px;
 }
 
 #content{
